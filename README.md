@@ -1,2 +1,3 @@
 # FreshNet-Vision
-A Machine Learning and Computer Vision academic project.
+## Abstract:
+   "Fresh-Net Vision" simplifies the sorting of  seafood through image processing and machine learning,  prioritizing efficiency, accuracy, and ethical practices. This initiative employs ML algorithms to intelligently categorize fish by species and size, surpassing manual sorting standards. The project's approach emphasizes humane treatment, acknowledging the food supply chain's role. The report outlines the methodology, ML model customization for Raspberry Pi, and real-time communication with ESP32. User-friendly interfaces, infrared sensors, and servo motors enhance precision.Subsequent sections delve into tools, technologies, and ethical considerations, illuminating the project’s workings. Keywords— Real-time communication, ESP32, Servo motors, infrared sensors, YOLOv8
