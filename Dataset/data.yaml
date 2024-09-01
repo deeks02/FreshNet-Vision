@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 10
+names: ['Catla', 'Croaker', 'HorseMackerel', 'Mackerel', 'MilkFish', 'Rohu', 'Sardine', 'SeaBass', 'Threadfin', 'Tilapia']
+
+roboflow:
+  workspace: freshnet
+  project: freshnet-mkbls
+  version: 2
+  license: Public Domain
+  url: https://universe.roboflow.com/freshnet/freshnet-mkbls/dataset/2
